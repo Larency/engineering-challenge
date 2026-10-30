@@ -36,6 +36,7 @@ src/task-1_larency/
 ├── pipeline.py               # Core pipeline engine, models, and policy configuration
 └── README.md                 # Project documentation
 
+```
 ## Getting Started
 
 ### Prerequisites
