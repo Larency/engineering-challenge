@@ -1,11 +1,3 @@
-Ah, I see the hidden culprit!
-
-Look closely at the indentation in your **Project Structure** block. The spaces before `src/task-1_larency/` and the tree lines contain **non-breaking space characters (or mixed tabs/spaces)** instead of clean standard spaces. Because of this, Markdown treats the opening ````text` as indented code rather than a code block fence, which causes the entire block to break.
-
-Here is a 100% clean, freshly sanitized version of your entire `README.md` with standard indentation and uniform UTF-8 characters.
-
-Copy this entire block and replace everything in your `README.md` file:
-
 ```markdown
 # Evidence-to-Insight Pipeline — Task 1: Source Normalisation & Policy Routing
 
