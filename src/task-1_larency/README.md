@@ -98,6 +98,3 @@ python -m pytest
 * **Keyword-Based Policy Matching:** Promotional claim detection relies on a configurable list of literal keywords (`promotional_keywords`). Highly nuanced or sophisticated marketing copy that avoids these exact terms may require more advanced semantic parsing.
 * **Strict ISO Date Formats:** Temporal fields expect standardized string formats (`YYYY-MM-DD`) rather than complex natural language date parsing.
 
-```
-
-```
