@@ -1,4 +1,3 @@
-```markdown
 # Evidence-to-Insight Pipeline — Task 1: Source Normalisation & Policy Routing
 
 A robust, offline-first Python pipeline designed to ingest, validate, deduplicate, and evaluate evidence sources against enterprise policy rules with strict data fidelity.
@@ -36,10 +35,6 @@ src/task-1_larency/
 │   └── test_pipeline.py      # Automated unittest / pytest suite
 ├── pipeline.py               # Core pipeline engine, models, and policy configuration
 └── README.md                 # Project documentation
-
-```
-
----
 
 ## Getting Started
 
